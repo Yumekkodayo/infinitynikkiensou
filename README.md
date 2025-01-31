@@ -1,6 +1,15 @@
 # InfinityNikkiEnsou
 
 InfinityNikkiEnsou は、Windows 環境で動作する自動音楽演奏ツールです。指定された楽譜に基づいて、ゲーム内で自動的に音楽を演奏します。
+#インフィニティニキ
+
+#InfinityNikki
+
+#无限暖暖
+
+#無限暖暖
+
+#인피니티니키
 
 ## 特徴
 - 簡単なテキスト形式の楽譜をサポート
